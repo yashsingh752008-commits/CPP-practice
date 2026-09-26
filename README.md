@@ -10,6 +10,7 @@ A collection of basic C++ programming examples, practice programs, and exercises
 - [`carpet_cleaning_rate.cpp`](carpet_cleaning_rate.cpp): Frank's Carpet Cleaning Service estimate and tax calculation.
 - [`EUROStoUSD.cpp`](EUROStoUSD.cpp): Currency converter from Euros to USD.
 - [`switch.cpp`](switch.cpp): Grade threshold requirement checker using `switch` statement.
+- [`for_loop.cpp`](for_loop.cpp): Iteration from 1 to 100 with formatted output using `for` loop.
 
 ## How to Compile & Run
 
