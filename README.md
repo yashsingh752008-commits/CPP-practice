@@ -11,6 +11,7 @@ A collection of basic C++ programming examples, practice programs, and exercises
 - [`EUROStoUSD.cpp`](EUROStoUSD.cpp): Currency converter from Euros to USD.
 - [`switch.cpp`](switch.cpp): Grade threshold requirement checker using `switch` statement.
 - [`for_loop.cpp`](for_loop.cpp): Iteration from 1 to 100 with formatted output using `for` loop.
+- [`calling_function.cpp`](calling_function.cpp): Function prototype and definition example to add two numbers.
 
 ## How to Compile & Run
 
